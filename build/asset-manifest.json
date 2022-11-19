@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hackernews-clonejenish/static/css/main.53b8f590.css",
+    "main.js": "/hackernews-clonejenish/static/js/main.be25fbba.js",
+    "index.html": "/hackernews-clonejenish/index.html",
+    "main.53b8f590.css.map": "/hackernews-clonejenish/static/css/main.53b8f590.css.map",
+    "main.be25fbba.js.map": "/hackernews-clonejenish/static/js/main.be25fbba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b8f590.css",
+    "static/js/main.be25fbba.js"
+  ]
+}
